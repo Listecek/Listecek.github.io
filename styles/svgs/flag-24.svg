@@ -1,0 +1,6 @@
+<!-- green #00ff00 -->
+<!-- purple #ed4dffff -->
+<svg width="24" height="24" viewBox="0 0 24 24" fill="#00ff00" xmlns="http://www.w3.org/2000/svg">
+    <rect x="10" y="2" width="2" height="20" fill="#ffffff"/>
+    <polygon points="12,2 20,7 12,12" fill="#ed4dffff"/>
+</svg>

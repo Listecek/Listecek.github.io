@@ -1,0 +1,13 @@
+<!-- green #00ff00 -->
+<!-- purple #ed4dffff -->
+<svg width="18" height="18" viewBox="0 0 24 24" fill="#ed4dffff" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="12" cy="12" r="7" fill="#ed4dffff"/>
+    <line x1="12" y1="2" x2="12" y2="7" stroke="#ed4dffff" stroke-width="2"/>
+    <line x1="12" y1="17" x2="12" y2="22" stroke="#ed4dffff" stroke-width="2"/>
+    <line x1="2" y1="12" x2="7" y2="12" stroke="#ed4dffff" stroke-width="2"/>
+    <line x1="17" y1="12" x2="22" y2="12" stroke="#ed4dffff" stroke-width="2"/>
+    <line x1="4.5" y1="4.5" x2="8" y2="8" stroke="#ed4dffff" stroke-width="2"/>
+    <line x1="16" y1="16" x2="19.5" y2="19.5" stroke="#ed4dffff" stroke-width="2"/>
+    <line x1="4.5" y1="19.5" x2="8" y2="16" stroke="#ed4dffff" stroke-width="2"/>
+    <line x1="16" y1="8" x2="19.5" y2="4.5" stroke="#ed4dffff" stroke-width="2"/>
+</svg>
